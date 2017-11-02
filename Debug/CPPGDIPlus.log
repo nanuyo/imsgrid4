@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CPPGDIPlus.cpp
+c:\users\simon\desktop\videocapture\imsscreen\cppgdiplus\cppgdiplus.cpp(149): warning C4101: 'windowsize' :참조되지 않은 지역 변수입니다.
+  CPPGDIPlus.vcxproj -> C:\Users\simon\Desktop\VideoCapture\imsscreen\Debug\CPPGDIPlus.exe
