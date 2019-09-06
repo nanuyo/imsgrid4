@@ -1370,7 +1370,7 @@ void OnPaint_1(HDC hDC)
 			g.DrawEllipse(&linePen8, (monitor_width / 2) - step_2, (monitor_height / 2) - step_2, step_2 * 2, step_2 * 2);
 			g.DrawEllipse(&linePen9, (monitor_width / 2) - step_8, (monitor_height / 2) - step_8, step_8 * 2, step_8 * 2);
 		}
-
+		g.DrawRectangle(&linePen9, (monitor_width / 3 * 2) , (monitor_height / 3) , step_8 * 2, step_8 * 2);
 
 	}
 #endif
